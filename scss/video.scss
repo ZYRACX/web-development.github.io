@@ -1,0 +1,33 @@
+@import "./fun.scss";
+@import "./mixin.scss";
+@import "./var.scss";
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+
+.p-header{
+    @include  center;
+}
+
+.playlist{
+    @include center;
+    a{
+        padding: 0 10px;
+    }
+}
+
+.o-header{
+    @include center;
+    padding: 20px 0;
+}
+
+.one-video{
+    @include center;
+    a{
+        padding: 0 10px;
+    }
+}

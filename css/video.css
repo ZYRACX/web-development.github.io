@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+}
+
+.p-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.playlist {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.playlist a {
+  padding: 0 10px;
+}
+
+.o-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.one-video {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.one-video a {
+  padding: 0 10px;
+}
+/*# sourceMappingURL=video.css.map */

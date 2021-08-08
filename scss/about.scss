@@ -1,0 +1,17 @@
+@import "./fun.scss";
+@import "./mixin.scss";
+@import "./var.scss";
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: arial;
+}
+
+.img{
+    @include center;
+}
+
+.html-header{
+    @include center;
+}

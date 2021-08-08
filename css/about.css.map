@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,CAAC,CAAA;EACG,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,WAAW,EAAE,KAAK;CACrB;;AAED,AAAA,IAAI,CAAA;EETA,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;CFStB;;AAED,AAAA,YAAY,CAAA;EEbR,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;CFatB",
+    "sources": [
+        "../scss/about.scss",
+        "../scss/fun.scss",
+        "../scss/mixin.scss",
+        "../scss/var.scss"
+    ],
+    "names": [],
+    "file": "about.css"
+}
